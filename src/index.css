@@ -1,5 +1,5 @@
 body {
-  background-color: black rgb(rgb(6, 6, 6), rgb(6, 6, 6), black);
+  background-color: rgb(32, 32, 35) ;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -8,7 +8,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.MuiFormLabel-root {
+  color: #FFFFFF !important; 
+}
+
+.MuiInputBase-input{
+  color: white !important;
 }

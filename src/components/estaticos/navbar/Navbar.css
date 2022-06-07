@@ -1,9 +1,15 @@
 .cursor{
-    cursor: pointer;
+    cursor:  pointer;
     color: white;
+    background-color: black;
+    
 }
 
+#header{
+    background-color: black;
+}
 
 .text-decorator-none{
     text-decoration: none;
+    background-color: black;
 }
