@@ -2,3 +2,7 @@
     text-decoration: none;
     
 }
+.background{
+    background-color: black !important;
+    color: white !important;
+}
