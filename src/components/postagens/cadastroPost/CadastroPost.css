@@ -1,3 +1,7 @@
 .topo{
     margin-top: 20px;
 }
+.background{
+    background-color: black !important;
+    color: rgba(255, 255, 255, 0.922) !important;
+}
